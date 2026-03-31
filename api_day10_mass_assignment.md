@@ -502,4 +502,4 @@ Remediation:
 
 ---
 
-*30-Day API Pentesting Series — @cybermindspace — follow for more.*
+*30-Day API Pentesting Series — @anand87794 — follow for more.*
